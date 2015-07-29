@@ -21,7 +21,7 @@ Selector（选择器）是 Java NIO 中能够检测一到多个 NIO 通道，并
 
 下面是单线程使用一个 Selector 处理 3 个 channel 的示例图：
 
-![](/images/7.png)
+![](images/7.png)
 
 ### Selector 的创建
 

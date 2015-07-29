@@ -63,7 +63,7 @@ position 和 limit 的含义取决于 Buffer 处在读模式还是写模式。�
 
 这里有一个关于 capacity，position 和 limit 在读写模式中的说明，详细的解释在插图后面。
 
-![](/images/4.png)
+![](images/4.png)
 
 **capacity**
 

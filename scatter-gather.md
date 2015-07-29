@@ -12,7 +12,7 @@ scatter / gather 经常用于需要将传输的数据分开处理的场合，例
 
 Scattering Reads 是指数据从一个 channel 读取到多个 buffer 中。如下图描述：
 
-![](/images/5.png)
+![](images/5.png)
 
 代码示例如下：
 
@@ -31,7 +31,7 @@ Scattering Reads 在移动下一个 buffer 前，必须填满当前的 buffer，
 
 Gathering Writes 是指数据从多个 buffer 写入到同一个 channel。如下图描述：
 
-![](/images/6.png)
+![](images/6.png)
 
 代码示例如下：
 

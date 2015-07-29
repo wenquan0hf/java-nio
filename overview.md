@@ -12,7 +12,7 @@ Java NIO 由以下几个核心部分组成：
 
 基本上，所有的 IO 在 NIO 中都从一个 Channel 开始。Channel 有点象流。 数据可以从 Channel 读到 Buffer 中，也可以从 Buffer 写到 Channel 中。这里有个图示：
 
-![](/images/overview-channels-buffers1.png)
+![](images/overview-channels-buffers1.png)
 
 Channel 和 Buffer 有好几种类型。下面是 JAVA NIO 中的一些主要 Channel 的实现：
 

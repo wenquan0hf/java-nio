@@ -4,7 +4,7 @@ Java NIO 管道是 2 个线程之间的单向数据连接。Pipe有一个 source
 
 这里是 Pipe 原理的图示：
 
-![](/images/8.png)
+![](images/8.png)
 
 ### 创建管道
 

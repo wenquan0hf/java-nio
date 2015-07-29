@@ -4,7 +4,6 @@ Java NIO 中的 FileChannel 是一个连接到文件的通道。可以通过文�
 
 FileChannel 无法设置为非阻塞模式，它总是运行在阻塞模式下。
 
-
 ### 打开 FileChannel
 
 在使用 FileChannel 之前，必须先打开它。但是，我们无法直接打开一个 FileChannel，需要通过使用一个 InputStream、OutputStream 或 RandomAccessFile 来获取一个 FileChannel 实例。下面是通过 RandomAccessFile 打开 FileChannel 的示例：

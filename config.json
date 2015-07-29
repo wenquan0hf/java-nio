@@ -1,4 +1,4 @@
 {
-    "name": "scala 中文指南",
-    "introduction": "scala 中文指南。"
+    "name": "Java NIO 指南",
+    "introduction": "本教程讲解了 Java NIO 的三个核心组件，并介绍了跟核心组件相关的内容，旨在帮助读者 NIO 的原理。"
 }
